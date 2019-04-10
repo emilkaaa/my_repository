@@ -1,7 +1,7 @@
 
 #include <iostream.h>
 #include <stdio.h>
-//powiem cos
+//ma³a zmiana planu
 
 float n,x;
 
@@ -16,7 +16,7 @@ float fib(float n)
     return fib(n-2)+fib(n-1);
 }
 
-//aabbb
+
 main()
 {
     cout<<"Ciag fibonacciego";
@@ -29,4 +29,5 @@ main()
     }
    
 system ("pause");
+//kolejna zmiana
 }
